@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/go-kit/kit v0.11.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 )
 
 require (
@@ -18,5 +18,4 @@ require (
 	github.com/prometheus/procfs v0.6.0 // indirect
 	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
